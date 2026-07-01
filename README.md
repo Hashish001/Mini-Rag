@@ -40,3 +40,15 @@ $ cp .env.example .env
 ```
 
 Set your environment variables in the `.env` file. Like `OPENAI_API_KEY` value.
+## Postman Collection
+
+Download the Postman collection:
+
+- [`mini-rag-app.postman_collection.json`](./assets/mini-rag-app.postman_collection.json)
+
+### Import into Postman
+
+1. Open **Postman**.
+2. Click **Import**.
+3. Select `mini-rag-app.postman_collection.json`.
+4. Start testing the API endpoints.
