@@ -4,4 +4,4 @@ app = FastAPI()
 
 @app.get("/welcome")
 def welcome_message():
-    return {"message": "Welcome to the FastAPI application!!!"}
+    return {"message": "Welcome to the FastAPI application!"}
